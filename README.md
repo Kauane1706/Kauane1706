@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
+## Who am I?
 
-<!--
-**Kauane1706/Kauane1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **I currently work in a factory in the maintenance management sector**
+- 🌱 **I'm currently learning to program in C#**
+- 👯 **I'm looking to collaborate on something that I still don't know exactly what**
+- 🤔 **I'm looking for help with programming languages**
+- 💬 Ask me about anything (I'll answer what I know)
+- 📫 **How to contact me: [email](kauane.scunha@senacsp.edu.br)**
+- 😄 **Pronouns: She/Her**
+- ⚡ **Curiosity:** *Student and Writer*
 
-Here are some ideas to get you started:
+### Extra🎼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🎶**I like listening to music;**
+
+-📚**To study;**
+
+-📖**To write;**
+
+-🎬**Watch films;**
+
+-🎬**Series;**
+
+-🐺**I love wolves;**
+
+-🏀**My favorite sport is basketball;**
+
+-🎧**My favorite song is: [music](https://youtu.be/z8oQEruBuTw?si=VbvV5uW6S9Cqe47e)**
+
+-🚗🔥**My favorite movie is:** *Fast and Furious*
+
+-🚗🏍**I love cars and motorcycles**
